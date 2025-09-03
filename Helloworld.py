@@ -1,0 +1,7 @@
+#print ("Hello world!")
+print ("Please enter your Firstname")
+Firstname=input()
+print ("Please enter your Lastname")
+Lastname=input()
+#print ("Hello, " + Firstname + "" + Lastname + "!")
+print (f"Hello, {Firstname} {Lastname} !")
